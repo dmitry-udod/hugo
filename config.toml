@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
+baseurl = "https://travels.netlify.com/"
+languageCode = "ru-RU"
 title = "My New Hugo Site"
 theme = "ananke"
