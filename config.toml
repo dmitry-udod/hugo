@@ -1,4 +1,4 @@
 baseurl = "https://travels.netlify.com/"
 languageCode = "ru-RU"
-title = "My New Hugo Site"
+title = "Pochechka Travel"
 theme = "hugo_theme_aglaus"
