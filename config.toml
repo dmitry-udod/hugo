@@ -1,4 +1,4 @@
-baseurl = "https://travels.netlify.com/"
+baseurl = "https://pochechka.com/"
 languageCode = "ru-RU"
 title = "Pochechka Travel"
 theme = "hugo_theme_aglaus"
